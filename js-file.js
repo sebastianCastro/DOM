@@ -53,6 +53,6 @@ btn.onclick = () => alert("Hello World");
 
 
 const btn2 = document.querySelector('#btn2');
-btn.addEventListener('click', () => {
-  alert("Hello World");
+btn2.addEventListener('click', () => {
+  alert("Hello World2");
 });
